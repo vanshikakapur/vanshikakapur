@@ -5,7 +5,7 @@
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 <a href="https://linkedin.com/in/vanshika-kapur">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=650&lines=MS+Data+Science+%40+Indiana+University+(3.9%2F4.0);Turning+10%2C000%2B+messy+rows+into+one+clear+decision;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Scikit-learn;%F0%9F%9A%80+Actively+seeking+Summer%2FFull-time+2026+roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=820&lines=MS+Data+Science+%40+Indiana+University+(3.9%2F4.0);Turning+10%2C000%2B+messy+rows+into+one+clear+decision;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Scikit-learn;%F0%9F%9A%80+Actively+seeking+Summer%2FFull-time+2026+roles!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -312,7 +312,7 @@ If you're hiring a Data Analyst, Data Scientist or BI Engineer for 2026 — my i
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=F093FB&center=true&vCenter=true&width=600&lines=%22Without+data%2C+you're+just+another+person+with+an+opinion.%22;Thanks+for+scrolling+—+let's+build+something+%F0%9F%92%9C" alt="closing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=F093FB&center=true&vCenter=true&width=800&lines=%22Without+data%2C+you're+just+another+person+with+an+opinion.%22;Thanks+for+scrolling+—+let's+build+something+%F0%9F%92%9C" alt="closing"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=140&section=footer"/>
 
