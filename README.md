@@ -261,41 +261,66 @@ class VanshikaKapur:
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;What I Write Most
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshikakapur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" alt="stats"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikakapur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="top langs"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=vanshikakapur&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" alt="streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikakapur&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area=true" alt="activity graph"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=vanshikakapur&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikakapur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="top langs"/>
 
 </div>
+
+<!-- Activity-based widgets are parked below on purpose: they advertise commit
+     volume, which isn't where this profile's story is. Uncomment once the
+     contribution graph fills in. -->
+<!--
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshikakapur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" alt="stats"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=vanshikakapur&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" alt="streak"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikakapur&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area=true" alt="activity graph"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=vanshikakapur&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+-->
+
 
 ---
 
-<!-- ==================== CONTRIBUTION SNAKE (needs the workflow below) ==================== -->
-<div align="center">
+## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"> &nbsp;How I Turn Data Into Decisions
 
-### 🐍 Watch My Contributions Get Eaten
+```mermaid
+flowchart LR
+    A["🗄️ Raw Data<br/><sub>SQL Server · BigQuery · Excel</sub>"] --> B["🧹 Clean &amp; Model<br/><sub>Python · Pandas · SQL</sub>"]
+    B --> C["⚙️ ETL Pipeline<br/><sub>Celonis · Alteryx · Views</sub>"]
+    C --> D{"🔍 Explore<br/><sub>EDA · Statistics</sub>"}
+    D --> E["🤖 Predict<br/><sub>Scikit-learn · TensorFlow</sub>"]
+    D --> F["📈 Visualize<br/><sub>Power BI · Tableau · DAX</sub>"]
+    E --> G(["💡 A Decision<br/><sub>Leadership acts on it</sub>"])
+    F --> G
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshikakapur/vanshikakapur/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshikakapur/vanshikakapur/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/vanshikakapur/vanshikakapur/output/github-contribution-grid-snake.svg"/>
-</picture>
+    style A fill:#1f2937,stroke:#667eea,stroke-width:2px,color:#fff
+    style B fill:#1f2937,stroke:#667eea,stroke-width:2px,color:#fff
+    style C fill:#1f2937,stroke:#764ba2,stroke-width:2px,color:#fff
+    style D fill:#1f2937,stroke:#764ba2,stroke-width:2px,color:#fff
+    style E fill:#1f2937,stroke:#f093fb,stroke-width:2px,color:#fff
+    style F fill:#1f2937,stroke:#f093fb,stroke-width:2px,color:#fff
+    style G fill:#667eea,stroke:#f093fb,stroke-width:3px,color:#fff
+```
 
-</div>
+> Every project on this profile follows this loop. The last box is the only one that matters.
+
+---
+
+## <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="28"> &nbsp;Where I'm Deep vs. Where I'm Growing
+
+```text
+Python  · Pandas · NumPy   ████████████████████░░░░   Daily driver
+SQL     · joins, CTEs, perf ████████████████████░░░░   Daily driver
+Power BI · DAX · modeling  ███████████████████░░░░░   Shipped to execs
+Tableau · dashboards       ██████████████████░░░░░░   Shipped to mgmt
+Excel VBA · automation     ██████████████████░░░░░░   240+ products automated
+Scikit-learn · classic ML  ████████████████░░░░░░░░   85–93% acc. in prod projects
+TensorFlow · Keras · CV    ██████████████░░░░░░░░░░   InceptionV3, 80K+ images
+Google Cloud · BigQuery    █████████████░░░░░░░░░░░   Taught it to 50+ students
+Snowflake · dbt            ████████░░░░░░░░░░░░░░░░   Learning now ⚡
+MLOps · model serving      ██████░░░░░░░░░░░░░░░░░░   Next on the list ⚡
+```
 
 ---
 
