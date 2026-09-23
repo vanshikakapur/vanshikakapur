@@ -25,7 +25,7 @@
 
 ### 🎯 `OPEN TO WORK` — Data Analyst / Data Scientist / BI Engineer
 
-**Graduating May 2026** &nbsp;•&nbsp; 📍 Bloomington, IN (open to relocate) &nbsp;•&nbsp; 🇺🇸 Authorized to work in the US
+**Graduating May 2026** &nbsp;•&nbsp; 📍 Cleveland,Ohio (open to relocate) &nbsp;•&nbsp; 🇺🇸 Authorized to work in the US
 
 <img src="https://img.shields.io/badge/Status-Actively_Interviewing-brightgreen?style=flat-square&logo=checkmarx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Start_Date-May_2026-blue?style=flat-square&logo=googlecalendar&logoColor=white"/>
